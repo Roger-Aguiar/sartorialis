@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "argqCLtudGt4P03V+MtmKV79UnBmXPEs4WINb+X/kaU=",
+  "Source": "Sartorialis.Api",
+  "BasePath": "_content/Sartorialis.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

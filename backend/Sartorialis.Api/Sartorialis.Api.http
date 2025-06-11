@@ -1,0 +1,6 @@
+@Sartorialis.Api_HostAddress = http://localhost:5001
+
+GET {{Sartorialis.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
